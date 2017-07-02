@@ -59,7 +59,7 @@ msgstr[1] "Aquest tema necessita les següents extensions: %1$s."
 msgid "This theme recommends the following plugin: %1$s."
 msgid_plural "This theme recommends the following plugins: %1$s."
 msgstr[0] "Aquest tema recomana la següent extensió: %1$s."
-msgstr[1] "Aquest tema recomana la següent extensió: %1$s."
+msgstr[1] "Aquest tema recomana les següents extensions: %1$s."
 
 #. translators: 1: plugin name(s).
 #: class-tgm-plugin-activation.php:355
